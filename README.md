@@ -1,6 +1,16 @@
 #Task 3-Security Testing for Web applications
 
-*Company:*CODTECH IT SOLUTIONS *Intern Name:*Kandimalla Niharika *Intern Id:*CTIS2057 *Domain:*Software Testing *Duration:*4 Weeks *Mentor:*Neela Santosh
+*Company:*CODTECH IT SOLUTIONS 
+
+*Intern Name:*Kandimalla Niharika 
+
+*Intern Id:*CTIS2057 
+
+*Domain:*Software Testing 
+
+*Duration:*4 Weeks 
+
+*Mentor:*Neela Santosh
 
 PROJECT TITLE: Web Application Security Testing
 
