@@ -33,4 +33,6 @@ RESULT: The application was found to be vulnerable to SQL Injection and XSS. App
 DISCLAIMER: This testing was conducted only for educational purposes on a legally permitted demo application.# Security_testing.
 
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1b9247e0-1b5a-4057-b485-7aed6a918749" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b5caab66-21a1-4f75-b8b5-20a8e60aa09a" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/94b31692-e205-43a3-b5d5-eda5442fa946" />
